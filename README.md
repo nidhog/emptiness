@@ -17,7 +17,9 @@ For more details, don't do anything. Good.
 ## Frequently asked questions
 1 - *Seriously?*
 **answer:** Yes
+
 2 - *Are you for real?*
 **answer:** Yes
+
 3 - *Is this a joke?*
 **answer:** Is it?
